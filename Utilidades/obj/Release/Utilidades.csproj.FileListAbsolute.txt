@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Release\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inventario\Utilidades\bin\Release\Utilidades.dll
+C:\Users\lenovo\source\repos\Inventario\Utilidades\bin\Release\Utilidades.pdb
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Release\Utilidades.dll
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Release\Utilidades.pdb
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Release\Utilidades.csprojAssemblyReference.cache

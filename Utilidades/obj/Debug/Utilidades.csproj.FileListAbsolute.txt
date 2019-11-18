@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Inventario\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\lenovo\source\repos\Inventario\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\lenovo\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\vaval\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\vaval\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vaval\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\vaval\source\repos\Inventario\Utilidades\obj\Debug\Utilidades.pdb

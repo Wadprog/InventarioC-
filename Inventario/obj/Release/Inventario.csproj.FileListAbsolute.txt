@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.Form1.resources
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inventario\Inventario\bin\Release\Inventario.exe.config
+C:\Users\lenovo\source\repos\Inventario\Inventario\bin\Release\Inventario.exe
+C:\Users\lenovo\source\repos\Inventario\Inventario\bin\Release\Inventario.pdb
+C:\Users\lenovo\source\repos\Inventario\Inventario\bin\Release\Utilidades.dll
+C:\Users\lenovo\source\repos\Inventario\Inventario\bin\Release\Utilidades.pdb
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.exe
+C:\Users\lenovo\source\repos\Inventario\Inventario\obj\Release\Inventario.pdb
