@@ -26,13 +26,13 @@ namespace Utilidades
         {
             public static bool ValiForm(Control objp, ErrorProvider ep)
             {
-                foreach (Control item in )
+               /* foreach (Control item in )
                 {
                     if (objp.Controls.Count > 0)
                     {
 
                     }
-                }
+                }*/
                 return true;
             }
         }

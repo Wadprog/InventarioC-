@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Inventario
 {
-    public partial class Reportes : BaseForm
+    public partial class Form4 : Mante
     {
-        public Reportes()
+        public Form4()
         {
             InitializeComponent();
-        }
-
-        private void Reportes_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btn_salir1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

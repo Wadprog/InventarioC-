@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace Inventario
 {
-    public partial class Procesos : FormBase
+    public partial class Form3 : Mante
     {
-        public Procesos()
+        public Form3()
         {
             InitializeComponent();
         }
 
-        private void Procesos_Load(object sender, EventArgs e)
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            Registro.Text += " Departamento";
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

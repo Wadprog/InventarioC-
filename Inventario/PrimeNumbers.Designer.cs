@@ -1,6 +1,6 @@
 ﻿namespace Inventario
 {
-    partial class Form1
+    partial class PrimeNumbers
     {
         /// <summary>
         /// Variable del diseñador necesaria.

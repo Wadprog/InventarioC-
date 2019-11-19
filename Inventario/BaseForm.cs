@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace Inventario
 {
-    public partial class Consultas : FormBase
+    public partial class BaseForm : Form
     {
-        public Consultas()
+        public BaseForm()
         {
             InitializeComponent();
         }
 
-        private void Consultas_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
 
-        private void btn_salir1_Click(object sender, EventArgs e)
+        private void BaseForm_Load(object sender, EventArgs e)
         {
 
         }

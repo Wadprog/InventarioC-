@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Inventario
 {
-    public partial class Form1 : Form
+    public partial class PrimeNumbers : Form
     {
-        public Form1()
+        public PrimeNumbers()
         {
             InitializeComponent();
         }

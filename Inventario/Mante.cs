@@ -10,14 +10,24 @@ using System.Windows.Forms;
 
 namespace Inventario
 {
-    public partial class Mantenimientos : FormBase
+    public partial class Mante : BaseForm
     {
-        public Mantenimientos()
+        public Mante()
         {
             InitializeComponent();
         }
 
-        private void Mantenimientos_Load(object sender, EventArgs e)
+        private void Mante_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Registro_Click(object sender, EventArgs e)
         {
 
         }

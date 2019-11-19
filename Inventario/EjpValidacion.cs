@@ -31,7 +31,7 @@ namespace Inventario
                     Utilidades.textbox obj = (Utilidades.textbox) item;
                     if (obj.Validar)
                     {
-                        errorProvider1.SetError(obj, String.IsNullOrEmpty(obj.Text.Trim()) ? "Campo Obligatorio" : "");
+                        errorProvider1.SetError(obj, String.IsNullOrEmpty(obj.Text.Trim()) ? "Required Field" : "");
                     }
                 }
             }
@@ -42,6 +42,11 @@ namespace Inventario
         private void but_validar2_Click(object sender, EventArgs e)
         {
             Utilidades.Utilidad.ValidaForm.ValiForm(this, errorProvider1);
+        }
+
+        private void EjpValidacion_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

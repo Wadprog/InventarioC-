@@ -29,21 +29,17 @@
         private void InitializeComponent()
         {
             this.but_imprimir = new System.Windows.Forms.Button();
-            this.panel1.SuspendLayout();
+            
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.but_imprimir);
-            this.panel1.Size = new System.Drawing.Size(681, 66);
-            this.panel1.Controls.SetChildIndex(this.btn_salir1, 0);
-            this.panel1.Controls.SetChildIndex(this.but_imprimir, 0);
+            
+           
             // 
             // btn_salir1
             // 
-            this.btn_salir1.Location = new System.Drawing.Point(353, 13);
-            this.btn_salir1.Size = new System.Drawing.Size(114, 31);
-            this.btn_salir1.Click += new System.EventHandler(this.btn_salir1_Click);
+    
             // 
             // but_imprimir
             // 
@@ -62,7 +58,7 @@
             this.Name = "Reportes";
             this.Text = "Reportes";
             this.Load += new System.EventHandler(this.Reportes_Load);
-            this.panel1.ResumeLayout(false);
+           
             this.ResumeLayout(false);
 
         }

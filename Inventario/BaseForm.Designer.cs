@@ -1,6 +1,6 @@
 ﻿namespace Inventario
 {
-    partial class Form2
+    partial class BaseForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,58 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.label1 = new Utilidades.label(this.components);
-            this.textbox1 = new Utilidades.textbox(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(18, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Buscar";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // textbox1
-            // 
-            this.textbox1.Location = new System.Drawing.Point(72, 10);
-            this.textbox1.Name = "textbox1";
-            this.textbox1.Size = new System.Drawing.Size(244, 20);
-            this.textbox1.TabIndex = 1;
-            this.textbox1.Validar = false;
-            // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.textbox1);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(51, 89);
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(19)))), ((int)(((byte)(32)))));
+            this.panel1.Controls.Add(this.button1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panel1.Location = new System.Drawing.Point(0, 377);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(341, 295);
-            this.panel1.TabIndex = 2;
+            this.panel1.Size = new System.Drawing.Size(800, 73);
+            this.panel1.TabIndex = 0;
             // 
-            // Form2
+            // button1
+            // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(12, 23);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(154, 38);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "close";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // BaseForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.panel1);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "BaseForm";
+            this.Text = "BaseForm";
+            this.Load += new System.EventHandler(this.BaseForm_Load);
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private Utilidades.label label1;
-        private Utilidades.textbox textbox1;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button button1;
     }
 }
